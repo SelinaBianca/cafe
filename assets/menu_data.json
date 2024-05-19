@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Item 1",
+    "description": "This is the description for Item 1",
+    "price": 4.99,
+    "imageUrl": "assets/images/item1.jpg",
+    "details": "Espresso is a full-flavored, concentrated form of coffee that is served in shots."
+  },
+  {
+    "id": 2,
+    "title": "Item 2",
+    "description": "This is the description for Item 2",
+    "price": 4.99,
+    "imageUrl": "assets/images/item2.jpg",
+    "details": "Espresso is a full-flavored, concentrated form of coffee that is served in shots."
+  }
+]
+
