@@ -1,19 +1,128 @@
-[
-  {
-    "id": 1,
-    "title": "Item 1",
-    "description": "This is the description for Item 1",
-    "price": 4.99,
-    "imageUrl": "assets/images/item1.jpg",
-    "details": "Espresso is a full-flavored, concentrated form of coffee that is served in shots."
-  },
-  {
-    "id": 2,
-    "title": "Item 2",
-    "description": "This is the description for Item 2",
-    "price": 4.99,
-    "imageUrl": "assets/images/item2.jpg",
-    "details": "Espresso is a full-flavored, concentrated form of coffee that is served in shots."
-  }
-]
+
+  [
+    {
+      "id": 1,
+      "title": "bacon_pizza",
+      "description": "A mouth-watering bacon pizza topped with crispy bacon slices and melted cheese.",
+      "price": 10.99,
+      "imageUrl": "assets/bacon_pizza.jpg",
+      "details": "Experience the perfect blend of savory bacon and rich cheese on a freshly baked crust."
+    },
+    {
+      "id": 2,
+      "title": "brownies",
+      "description": "Decadent chocolate brownies with a fudgy center and a crackly top.",
+      "price": 8.49,
+      "imageUrl": "assets/brownies.jpg",
+      "details": "Indulge in the rich cocoa flavor and soft texture of our signature brownies."
+    },
+    {
+      "id": 3,
+      "title": "cake",
+      "description": "A colorful and playful cake icon perfect for an evening.",
+      "price": 5.99,
+      "imageUrl": "assets/cake_icon.jpg",
+      "details": "Add a touch of sweetness to your life ."
+    },
+    {
+      "id": 4,
+      "title": "cake",
+      "description": "An elegant image showcasing a beautifully decorated cake for special occasions.",
+      "price": 12.99,
+      "imageUrl": "assets/cake_image.jpeg",
+      "details": "Celebrate life's moments with this exquisite cake, adorned with delicate details."
+    },
+    {
+      "id": 5,
+      "title": "carrot cake",
+      "description": "Moist and flavorful carrot cake with cream cheese frosting, a classic favorite.",
+      "price": 9.99,
+      "imageUrl": "assets/carrot_cake.jpeg",
+      "details": "Savor the blend of spices and sweetness in every bite of our signature carrot cake."
+    },
+    {
+      "id": 6,
+      "title": "coffee",
+      "description": "An iconic coffee cup symbolizing energy and warmth, perfect for coffee shops.",
+      "price": 3.99,
+      "imageUrl": "assets/coffee_icon.jpg",
+      "details": "Capture the essence of morning rituals and coffee culture with this iconic drink."
+    },
+
+
+    {
+      "id": 7,
+      "title": "espresso",
+      "description": "A strong and aromatic shot of espresso, perfect for coffee enthusiasts.",
+      "price": 4.99,
+      "imageUrl": "assets/espresso.jpg",
+      "details": "Awaken your senses with the intense flavor and silky texture of our signature espresso."
+    },
+    {
+      "id": 8,
+      "title": "fettuccine-alfredo",
+      "description": "Creamy fettuccine pasta tossed in a rich Alfredo sauce, a classic Italian dish.",
+      "price": 11.99,
+      "imageUrl": "assets/fettuccine-alfredo.jpg",
+      "details": "Indulge in the velvety smoothness of our homemade Alfredo sauce over tender fettuccine."
+    },
+    {
+      "id": 9,
+      "title": "gnocchi",
+      "description": "Soft and pillowy potato gnocchi served with a savory sauce and grated cheese.",
+      "price": 10.49,
+      "imageUrl": "assets/gnocchi.jpg",
+      "details": "Experience the delicate balance of flavors and textures in our homemade potato gnocchi."
+    },
+    {
+      "id": 10,
+      "title": "Hawaiian-Pizza",
+      "description": "Tropical Hawaiian pizza topped with ham, pineapple, and melted cheese.",
+      "price": 13.99,
+      "imageUrl": "assets/Hawaiian-Pizza.jpg",
+      "details": "Transport your taste buds to the islands with our savory Hawaiian pizza creation."
+    },
+    {
+      "id": 11,
+      "title": "irish",
+      "description": "Traditional Irish stew with tender meat, potatoes, carrots, and savory broth.",
+      "price": 14.99,
+      "imageUrl": "assets/irish.jpg",
+      "details": "Warm your soul with the hearty goodness of our authentic Irish stew recipe."
+    },
+    {
+      "id": 12,
+      "title": "lasagna",
+      "description": "Layers of pasta, rich meat sauce, and melted cheese, baked to perfection.",
+      "price": 12.49,
+      "imageUrl": "assets/lasagna.jpg",
+      "details": "Delight in the comforting layers of flavors in our homemade lasagna masterpiece."
+    },
+    {
+      "id": 13,
+      "title": "latte",
+      "description": "Creamy latte with steamed milk and a shot of espresso, topped with frothy foam.",
+      "price": 5.99,
+      "imageUrl": "assets/latte.jpg",
+      "details": "Embrace the velvety smoothness and gentle aroma of our artisanal latte creation."
+    },
+    {
+      "id": 14,
+      "title": "macchiato",
+      "description": "Bold espresso topped with a dollop of frothy milk foam, a simple yet intense coffee delight.",
+      "price": 4.49,
+      "imageUrl": "assets/macchiato.jpg",
+      "details": "Discover the art of balance in every sip of our perfectly crafted espresso macchiato."
+    },
+    {
+      "id": 15,
+      "title": "marble cake",
+      "description": "Marble-patterned cake with swirls of vanilla and chocolate, a visual and flavorful treat.",
+      "price": 8.99,
+      "imageUrl": "assets/marble_cake.jpeg",
+      "details": "Delight in the harmonious blend of chocolate and vanilla flavors in our marble cake masterpiece."
+    }
+  ]
+
+
 

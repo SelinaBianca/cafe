@@ -2,7 +2,7 @@ class CoffeeItem {
   final int id;
   final String title;
   final String description;
-  final double price; // Add price field
+  final double price;
   final String imageUrl;
   final String details;
 

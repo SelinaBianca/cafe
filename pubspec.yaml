@@ -31,7 +31,13 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.3
+  geolocator: ^8.0.1
   shared_preferences: ^2.0.6
+  sensors_plus: ^2.0.0
+  contacts_service: ^0.6.3
+  permission_handler: ^10.0.0
+  share: ^2.0.4
+  battery_plus: ^6.0.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -42,6 +48,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -63,9 +71,42 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-      - assets/menu_data.json
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+    - assets/menu_data.json
+    - assets/background_image.png
+    - assets/coffee_main.png
+    - assets/coffee_icon.jpg
+    - assets/pasta_icon.jpg
+    - assets/pizza_icon.jpg
+    - assets/cake_icon.jpg
+    - assets/cake_image.jpeg
+    - assets/espresso.jpg
+    - assets/latte.jpg
+    - assets/pasta_image.jpg
+    - assets/pizza_image.jpg
+    - assets/pizza_image3.jpeg
+    - assets/pizza_image2.jpeg
+    - assets/profile_photo.png
+    - assets/tiramusu.jpg
+    - assets/spicy-chicken-pizza.jpg
+    - assets/red_velvet.jpeg
+    - assets/carrot_cake.jpeg
+    - assets/prawn_pizza.jpg
+    - assets/pizza_tuna.jpg
+    - assets/pasta_cabonara.jpg
+    - assets/pasta_bolognese.jpg
+    - assets/pasta_arrabiata.jpeg
+    - assets/nutella_pizza.jpg
+    - assets/marble_cake.jpeg
+    - assets/lassagna.jpg
+    - assets/Hawaiian-Pizza.jpg
+    - assets/gnocchi.jpg
+    - assets/fettuccine-alfredo.jpg
+    - assets/bacon_pizza.jpg
+    - assets/brownies.jpg
+    - assets/affogata.jpg
+    - assets/mocha.jpg
+    - assets/macchiato.jpg
+    - assets/irish.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
